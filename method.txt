@@ -1,0 +1,43 @@
+class {
+     Method이름 :  methodExam01
+     리턴값 : 정수
+     Parameter(매개변수) : 정수 1개
+	 하는 일 : 
+	     "methodExam01 호출" 출력
+	     인수로 받은 정수 출력 
+	     정수*2 리턴. 
+    int methodExam01(int a)
+	{
+		 return 10;
+	}
+	int b = methodExam01(12);
+	
+	Method이름 :  methodExam02
+     Return Type:  String
+     Parameter : String 1개, 정수 1개
+	 하는 일 : 
+	    	"methodExam02 호출" 출력
+		    인수로 받은 정수 출력
+		    인수로 받은 String 리턴   
+
+}
+ Method이름 :  methodExam03
+     ReturnType : 리턴안함
+     Parameter : 정수 1개, String 1개
+     하는 일 : 
+		 "methodExam03 호출" 출력		
+
+ Method이름 :  methodExam04
+     ReturnType : 실수형
+     Parameter : 정수1개,실수1개,정수1개
+	 하는 일 : 
+		"methodExam04 호출"  출력
+		인수로 받은 실수형 리턴 
+
+   //메인메소드에서 호출가능한 
+  //메소드들을 호출하고
+  // 리턴하는 값 있다면 출력
+
+}
+
+ 
